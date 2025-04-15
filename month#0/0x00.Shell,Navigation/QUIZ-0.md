@@ -8,7 +8,7 @@ Test your understanding of basic Unix commands by selecting the correct answers.
 **Which command should you use to rename or move a file (or directory)?**
 - [ ] `rm`
 - [ ] `cp`
-- [x] `mv`
+- [ ] `mv`
 - [ ] `rmdir`
 - [ ] `mkdir`
 
@@ -23,7 +23,7 @@ The correct command is **`mv`**, which stands for move. It is used to **move** o
 **Which command should you use to display the content of a file?**
 - [ ] `cd`
 - [ ] `pwd`
-- [x] `less`
+- [ ] `less`
 - [ ] `touch`
 - [ ] `ls`
 
@@ -39,7 +39,7 @@ The correct command is **`less`**, which lets you **view the content** of a file
 - [ ] `rm`
 - [ ] `cp`
 - [ ] `mv`
-- [x] `rmdir`
+- [ ] `rmdir`
 - [ ] `mkdir`
 
 <details>
@@ -55,7 +55,7 @@ The correct command is **`rmdir`**, used to **remove an empty directory**.
 - [ ] `mkdir`
 - [ ] `rm`
 - [ ] `rmdir`
-- [x] `cp`
+- [ ] `cp`
 
 <details>
 <summary>💡 Answer</summary>
@@ -69,7 +69,7 @@ The correct command is **`cp`**, used to **copy files** or **directories** (with
 - [ ] `pwd`
 - [ ] `touch`
 - [ ] `ls`
-- [x] `cd`
+- [ ] `cd`
 - [ ] `less`
 
 <details>
@@ -82,7 +82,7 @@ The correct command is **`cd`**, which stands for **change directory**.
 ### ✅ Question 5
 **Which command should you use to display the current path of your current directory?**
 - [ ] `ls`
-- [x] `pwd`
+- [ ] `pwd`
 - [ ] `cd`
 - [ ] `less`
 - [ ] `touch`
@@ -98,7 +98,7 @@ The correct command is **`pwd`**, which stands for **print working directory**.
 **Which command should you use to list all files of your current directory?**
 - [ ] `cd`
 - [ ] `pwd`
-- [x] `ls`
+- [ ] `ls`
 - [ ] `touch`
 - [ ] `less`
 
@@ -113,7 +113,7 @@ The correct command is **`ls`**, used to **list files and directories**.
 **Which command should you use to create an empty file?**
 - [ ] `cd`
 - [ ] `pwd`
-- [x] `touch`
+- [ ] `touch`
 - [ ] `ls`
 - [ ] `less`
 
@@ -129,7 +129,7 @@ The correct command is **`touch`**, which can **create a new empty file**.
 - [ ] `mv`
 - [ ] `rmdir`
 - [ ] `rm`
-- [x] `mkdir`
+- [ ] `mkdir`
 - [ ] `cp`
 
 <details>
@@ -141,7 +141,7 @@ The correct command is **`mkdir`**, which stands for **make directory**.
 
 ### ✅ Question 9
 **Which command should you use to delete a file (or directory if additional argument)?**
-- [x] `rm`
+- [ ] `rm`
 - [ ] `rmdir`
 - [ ] `mv`
 - [ ] `cp`
