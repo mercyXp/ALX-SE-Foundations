@@ -12,9 +12,9 @@ Welcome to the **Unix terminal experience** — your first deep dive into naviga
 ## 📚 Resources & Documentation
 
 **Recommended Reading/Watching**:
-- Linux Navigation Basics
-- Linux - Looking Around
-- Linux - Manipulating Files
+- [Linux Navigation Basics](https://linuxcommand.org/lc3_lts0020.php)
+- [Linux - Looking Around](https://linuxcommand.org/lc3_lts0030.php)
+- [Linux - Manipulating Files](https://linuxcommand.org/lc3_lts0050.php)
 
 **Manual Pages to Explore in Terminal**:
 ```sh
