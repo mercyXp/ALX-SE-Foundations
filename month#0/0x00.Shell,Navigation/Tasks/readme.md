@@ -1,9 +1,6 @@
-
----
-
 # 🐚 Shell Navigation Basics – Task Walkthrough
 
-Welcome to your first hands-on project with the Unix Shell! In this guide, we’ll go through several basic file operations using the terminal. You’ll be working in a Linux environment (Ubuntu 20.04), and we recommend using **VS Code** for an efficient experience.
+Welcome to your first hands-on project with the Unix Shell! In this guide, you’ll go through several basic file operations using the terminal. You’ll be working in a Linux environment (Ubuntu 20.04), and we recommend using **VS Code** for an efficient experience.
 
 > ✅ **Environment:** Ubuntu 20.04 (via WSL, Remote SSH, or any terminal with Bash)  
 > 💻 **Recommended Tool:** Visual Studio Code + built-in terminal
@@ -15,12 +12,17 @@ Welcome to your first hands-on project with the Unix Shell! In this guide, we’
 **Objective:**  
 Navigate to the `/root` directory and create an empty file named `so_cool`.
 
-**Steps:**
-```bash
-cd /root
-touch so_cool
-ls
-```
+<details>
+  <summary>🔎 Click here for steps</summary>
+
+1. Open your terminal in VS Code.
+2. Navigate to the `/root` directory:  
+   `cd /root`
+3. Create the file using `touch`:  
+   `touch so_cool`
+4. List the files to confirm creation:  
+   `ls`
+</details>
 
 ---
 
@@ -29,26 +31,34 @@ ls
 **Objective:**  
 Copy the file `school` from `/root` to the `/tmp` directory.
 
-**Steps:**
-```bash
-cd /root
-cp school /tmp
-ls /tmp
-```
+<details>
+  <summary>🔎 Click here for steps</summary>
+
+1. Navigate to the `/root` directory:  
+   `cd /root`
+2. Copy the file using `cp`:  
+   `cp school /tmp`
+3. List the `/tmp` directory to verify:  
+   `ls /tmp`
+</details>
 
 ---
 
 ## 📁 Task 2: To Old
 
 **Objective:**  
-Rename the file `old_school` to `new_school` in the same directory.
+Rename the file `old_school` to `new_school`.
 
-**Steps:**
-```bash
-cd /root
-mv old_school new_school
-ls
-```
+<details>
+  <summary>🔎 Click here for steps</summary>
+
+1. Navigate to `/root`:  
+   `cd /root`
+2. Rename the file using `mv`:  
+   `mv old_school new_school`
+3. List the contents to confirm:  
+   `ls`
+</details>
 
 ---
 
@@ -57,62 +67,81 @@ ls
 **Objective:**  
 Move the file `not_here` to `/tmp/right_school`.
 
-**Steps:**
-```bash
-cd /root
-mv not_here /tmp/right_school
-ls /tmp
-```
+<details>
+  <summary>🔎 Click here for steps</summary>
+
+1. Navigate to `/root`:  
+   `cd /root`
+2. Move the file using `mv`:  
+   `mv not_here /tmp/right_school`
+3. Confirm by listing contents of `/tmp`:  
+   `ls /tmp`
+</details>
 
 ---
 
 ## 📁 Task 4: Not Anymore
 
 **Objective:**  
-Delete the file `ready_to_be_removed` in `/root`.
+Delete the file `ready_to_be_removed`.
 
-**Steps:**
-```bash
-cd /root
-rm ready_to_be_removed
-ls
-```
+<details>
+  <summary>🔎 Click here for steps</summary>
+
+1. Navigate to `/root`:  
+   `cd /root`
+2. Remove the file using `rm`:  
+   `rm ready_to_be_removed`
+3. Confirm by listing files:  
+   `ls`
+</details>
 
 ---
 
 ## 📁 Task 5: Organization is Key!
 
 **Objective:**  
-Create a directory named `school_is_amazing` inside `/root`.
+Create a directory named `school_is_amazing`.
 
-**Steps:**
-```bash
-cd /root
-mkdir school_is_amazing
-ls -d */
-```
+<details>
+  <summary>🔎 Click here for steps</summary>
+
+1. Navigate to `/root`:  
+   `cd /root`
+2. Create the directory using `mkdir`:  
+   `mkdir school_is_amazing`
+3. List directories to confirm:  
+   `ls -d */`
+</details>
 
 ---
 
 ## 📁 Task 6: No Need
 
 **Objective:**  
-Remove a directory named `empty_directory` from `/root`.
+Remove a directory named `empty_directory`.
 
-**Steps:**
-```bash
-cd /root
-rmdir empty_directory
-ls -d */
-```
+<details>
+  <summary>🔎 Click here for steps</summary>
+
+1. Navigate to `/root`:  
+   `cd /root`
+2. Remove the directory using `rmdir`:  
+   `rmdir empty_directory`
+3. Confirm with:  
+   `ls -d */`
+</details>
 
 ---
 
-## 🔚 Wrap-up
+## 🙌 Final Thoughts
 
-Congratulations! You’ve just practiced key file system navigation and file management skills in the Unix Shell. These basics form the foundation for everything you’ll do moving forward in software development.
+Congrats on completing your shell navigation exercise! You've practiced:
 
-Feel free to share your journey or ask questions via [issues](https://github.com/) on this repo! 🌱
+- Navigating directories  
+- Creating and deleting files and directories  
+- Copying and moving files  
+- Basic Unix commands
 
 ---
 
