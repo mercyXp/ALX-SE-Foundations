@@ -173,4 +173,12 @@ Whether you're still on the journey or looking back, every step builds your conf
 > 💬 *“Keep going. Every line of code, every bug fixed, is a step closer to mastery.”*
 
 ---
+---
+## Author ✒️ 
+Mercy Munzenzi [MercyXp](https://github.com/MercyXp)
+
+## Acknowledgements 🙏
+All work contained in this project was completed as part of the curriculum for [ALX Africa SE](https://www.alxafrica.com/). ALX Africa is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [this link](https://www.alxafrica.com/).
+
+
 
