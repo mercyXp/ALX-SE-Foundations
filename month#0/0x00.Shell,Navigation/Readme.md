@@ -1,12 +1,6 @@
-
----
-
-```markdown
 # 📁 0x00. Shell, Navigation
 
 Welcome to the **Unix terminal experience** — your first deep dive into navigating and working within a Linux environment. This project introduces fundamental shell commands and practices that are essential for any developer working on a Unix-based system.
-
----
 
 ## 🧭 Project Overview
 
@@ -14,7 +8,6 @@ Welcome to the **Unix terminal experience** — your first deep dive into naviga
 - **Environment**: Ubuntu 20.04 (Sandbox)  
 - **Tools Used**: Shell, Bash 
 
----
 
 ## 📚 Resources & Documentation
 
@@ -40,7 +33,6 @@ man rmdir
 **Additional Resource**:
 - Exploring the `/tmp` directory
 
----
 
 ## 🎯 Learning Objectives
 
@@ -52,7 +44,6 @@ By the end of this project, you should be able to:
 - Create and delete files and directories
 - Move and copy files and directories within the file system
 
----
 
 ## 🔐 Academic Integrity
 
@@ -60,14 +51,12 @@ By the end of this project, you should be able to:
 - 🚫 **No plagiarism**: Copying code will result in removal from the program.
 - 🚀 **Sandbox Use**: All tasks must be executed within your ALX-provided Ubuntu 20.04 sandbox.
 
----
 
 ## ✅ Requirements
 
 - Complete all tasks within your sandbox environment
 - Recommended: Start fresh with a new sandbox session
 
----
 
 ## 🌟 Final Thoughts
 
@@ -75,6 +64,5 @@ This project lays the groundwork for everything that follows in your ALX journey
 
 > 💬 *“Learning to navigate the shell is like getting the keys to the kingdom — everything starts here.”*
 
----
-```
+
 
